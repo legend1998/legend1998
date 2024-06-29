@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Suman Kumar
 - 👀 Tech lead @MyRevue
 - 🌱 Just google MyRevue to see my works
-- 💞️ Feel free to see my works
 - 📫 How to reach me sumankuma.1997@gmail.com
 
 <!---
