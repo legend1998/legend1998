@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @legend1998
-- 👀 I’m interested in developing
-- 🌱 I’m currently learning next js 
-- 💞️ I’m looking to collaborate on flutter
+- 👋 Hi, I’m Suman Kumar
+- 👀 Tech lead @MyRevue
+- 🌱 Just google MyRevue to see my works
+- 💞️ Feel free to see my works
 - 📫 How to reach me sumankuma.1997@gmail.com
 
 <!---
