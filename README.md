@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Suman Kumar
-- 👀 Tech lead @MyRevue
+- 👀 SSE @Wayfair
 - 🌱 Just google MyRevue to see my works
 - 📫 How to reach me sumankuma.1997@gmail.com
 - linkedin - https://www.linkedin.com/in/sumankumar98
